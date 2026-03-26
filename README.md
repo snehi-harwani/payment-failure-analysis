@@ -45,5 +45,8 @@ Understanding where and when failures occur helps improve payment success rates,
 ## 📁 Files
 - `Payment_Failure_Analysis_dashboard.pbix` → Power BI dashboard  
 - `Payment_Failure_Dataset.xlsx` → Dataset used for analysis  
-- `payment_failure_dashboard.png` → Dashboard screenshot  
+- `payment_failure_dashboard.png` → Dashboard screenshot
+
+- ## 📸 Dashboard Preview
+![Dashboard](payment_failure_dashboard.png)
 
