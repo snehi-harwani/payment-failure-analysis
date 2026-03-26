@@ -48,5 +48,5 @@ Understanding where and when failures occur helps improve payment success rates,
 - `payment_failure_dashboard.png` → Dashboard screenshot
 
 - ## 📸 Dashboard Preview
-![Dashboard](payment_failure_dashboard.png)
+![Dashboard](Payment_failure_dashboard.png)
 
